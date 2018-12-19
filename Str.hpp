@@ -2,6 +2,7 @@
 #define	STR_HPP
 #include <cstddef>
 #include <iostream>
+#include <string.h>
 class Str
 {
 private:
